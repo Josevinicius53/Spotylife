@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Spotylife.src.Model;
 
-namespace Spotylife.src.NovaPasta
+namespace Spotylife.src.data
 {
     public class Spotylife
     {
